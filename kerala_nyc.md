@@ -41,7 +41,7 @@ Share of Budget | ~4–5% | ~12–14%
 
 Metric | New York City | Kerala
 --- | --- | ---
-Annual Principal Repayment | ~$3–4B (approx typical bond maturities) | **₹1,14,961 crore (~$13B)**
+Annual Principal Repayment | ~$3–4B (approx typical bond maturities) | **~₹1,14,961 crore (~$13–14B)**
 Share of Budget | ~3–4% | ~36–40%
 
 **Kerala:** The 2025-26 budget estimates **₹1,14,961 crore in debt repayment** (principal payments on past loans).
